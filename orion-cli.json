@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Perseusoft/orion-releases/releases/download/v0.1.0/orion-cli_windows_amd64.zip",
+            "bin": [
+                "orion.exe"
+            ],
+            "hash": "7ae8f912bfc2dcf9a18941890b180760c8f0822a5206b2b6a64a32deb09d1da2"
+        },
+        "arm64": {
+            "url": "https://github.com/Perseusoft/orion-releases/releases/download/v0.1.0/orion-cli_windows_arm64.zip",
+            "bin": [
+                "orion.exe"
+            ],
+            "hash": "fc7c460b074d8ca4c1090e5d1686f8791af4f11ca2fb3f709f9ce2c5db2537c2"
+        }
+    },
+    "homepage": "https://orionops.tech",
+    "license": "Proprietary",
+    "description": "OrionOps CLI — Specialized AI agents for code generation"
+}
