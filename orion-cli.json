@@ -1,19 +1,19 @@
 {
-    "version": "0.1.14",
+    "version": "0.1.16",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Perseusoft/orion-releases/releases/download/v0.1.14/orion-cli_windows_amd64.zip",
+            "url": "https://github.com/Perseusoft/orion-releases/releases/download/v0.1.16/orion-cli_windows_amd64.zip",
             "bin": [
                 "orion.exe"
             ],
-            "hash": "56cafc0b6065c283e97011c01e6cb68c6a8b10e95c7a487da89f0138ceed0c19"
+            "hash": "43db86c3ffddd3ceb4958082a5715ff81bdf67f52364a00ede691041f80e3c30"
         },
         "arm64": {
-            "url": "https://github.com/Perseusoft/orion-releases/releases/download/v0.1.14/orion-cli_windows_arm64.zip",
+            "url": "https://github.com/Perseusoft/orion-releases/releases/download/v0.1.16/orion-cli_windows_arm64.zip",
             "bin": [
                 "orion.exe"
             ],
-            "hash": "d1318964d72608c09b6d15bd334e31450d32affbf2eefd509ef46cc3d83155f1"
+            "hash": "a693ec6ae9ea23113ee7492600ee70c7d788fef158be1aff8b6411bc4d5fe2d0"
         }
     },
     "homepage": "https://orionops.tech",
