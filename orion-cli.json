@@ -1,19 +1,19 @@
 {
-    "version": "0.1.55",
+    "version": "0.1.56",
     "architecture": {
         "64bit": {
-            "url": "https://dl.orionops.tech/cli/releases/v0.1.55/orion-cli_windows_amd64.zip",
+            "url": "https://dl.orionops.tech/cli/releases/v0.1.56/orion-cli_windows_amd64.zip",
             "bin": [
                 "orion.exe"
             ],
-            "hash": "b4fcc04f06b3c7d9ecdab1b5a5b1d81c26821c57733dcb900576b481c8a618fd"
+            "hash": "3e255f938b20eabe9938f2bfb09215bb1912d1ab31118d2d27078a54055317a9"
         },
         "arm64": {
-            "url": "https://dl.orionops.tech/cli/releases/v0.1.55/orion-cli_windows_arm64.zip",
+            "url": "https://dl.orionops.tech/cli/releases/v0.1.56/orion-cli_windows_arm64.zip",
             "bin": [
                 "orion.exe"
             ],
-            "hash": "bf0a8a0089181af502827509f4a9008c97942099c2c72348ae112d5d282d14a7"
+            "hash": "d786e1aeb291e2e82fa44b2accca24774c69b086ca1f953c2f2c2129dbaa558e"
         }
     },
     "homepage": "https://orionops.tech",
